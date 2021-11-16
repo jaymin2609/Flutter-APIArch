@@ -1,0 +1,9 @@
+
+enum ReturnType{
+  GET_USERS,
+  POST_ADD_POST,
+  GET_USERS_ALBUMS,
+  GET_POSTS,
+  GET_COMMENTS,
+  GET_PHOTOS
+}
